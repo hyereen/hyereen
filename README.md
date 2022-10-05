@@ -7,4 +7,4 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working as a Data Scientist
 - 🌱 I’m currently learning SQL
 - 📫 How to reach me ... 
-> reenh@naver.com
+  + reenh@naver.com
