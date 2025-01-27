@@ -5,6 +5,6 @@ Here are some ideas to get you started: -->
 
 - 👋 Hi there. I’m Hyereen Kong
 - 🔭 I’m currently working as a Data Scientist
-- 🌱 I’m currently learning PySpark
+- 🌱 I’m currently learning K8s
 - 📫 How to reach me ... 
   + reenh@naver.com
